@@ -1,0 +1,344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"partic",
+				"Particles"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"grid",
+				"grid-row\tproperty"
+			],
+			[
+				"grid-col",
+				"grid-column-end\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"build",
+				"Build With: Python3"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/VIDEO COURSES/Python Zero to Mastery Code/hi.py",
+		"/C/Users/Tanbir/Desktop/6-HTML-CSS-JS/styles.css",
+		"/C/Users/Tanbir/Desktop/6-HTML-CSS-JS/index.html",
+		"/C/Users/Tanbir/Downloads/bootstrap-login-register-forms/bootstrap-login-register-forms/form-1/assets/bootstrap/js/bootstrap.js",
+		"/C/Users/Tanbir/Downloads/bootstrap-login-register-forms/bootstrap-login-register-forms/form-1/assets/css/style.css",
+		"/C/Users/Tanbir/Downloads/login-form-v1/Login_v1/css/main.css",
+		"/C/Users/Tanbir/Downloads/login-form-v1/Login_v1/js/main.js",
+		"/C/Users/Tanbir/miniconda3/pkgs/pandas-1.2.4-py39hd77b12b_0/Lib/site-packages/pandas/tests/series/methods/test_asfreq.py",
+		"/C/Users/Tanbir/Downloads/stripe-desktop-menu-master/stripe-desktop-menu-master/app.js",
+		"/C/Users/Tanbir/Downloads/stripe-desktop-menu-master/stripe-desktop-menu-master/app.css",
+		"/C/Users/Tanbir/Downloads/stripe-desktop-menu-master/stripe-desktop-menu-master/index.html",
+		"/D/VIDEO COURSES/WEB DEV/Complete React Developer in 2021 (w Redux, Hooks, GraphQL/4. Master Project Setting Up E-commerce Project/12.2 directory.data.js",
+		"/D/PROJECTS/pace/.git/COMMIT_EDITMSG",
+		"/D/PROJECTS/Personal Website/node_modules/html-webpack-plugin/lib/loader.js",
+		"/D/VIDEO COURSES/Complete React Developer in 2021 (w Redux, Hooks, GraphQL)/3. React Basics/23.1 React Developer Tools.html",
+		"/D/VIDEO COURSES/Complete React Developer in 2021 (w Redux, Hooks, GraphQL)/3. React Basics/16.1 JSON Placeholder API.html",
+		"/D/VIDEO COURSES/The Complete Web Developer in 2021 Zero to Mastery/29 Where To Go From Here_/335 My Advice On Being a Junior Developer.html",
+		"/D/PROJECTS/Personal Website/src/template.html",
+		"/D/PROJECTS/basic_js_projects/03-reviews/final/app.js",
+		"/D/PROJECTS/basic_js_projects/01-color-flipper/setup/app.js",
+		"/D/VIDEO COURSES/Complete React Developer in 2021 (w Redux, Hooks, GraphQL)/3. React Basics/19.3 card-list.styles.css",
+		"/D/PROJECTS/basic_js_projects/03-reviews/final/index.html",
+		"/D/PROJECTS/basic_js_projects/02-counter/setup/index.html",
+		"/D/PROJECTS/basic_js_projects/02-counter/setup/app.js",
+		"/D/PROJECTS/basic_js_projects/.git/COMMIT_EDITMSG",
+		"/D/VIDEO COURSES/PROJECTS/inmyfridge/src/App.js",
+		"/C/Users/Tanbir/Downloads/javascript-client/src/com.spoonacular.client/ApiClient.js",
+		"/D/VIDEO COURSES/PROJECTS/facerecognitionbrain/src/components/ImageLinkForm/ImageLinkForm.css",
+		"/D/VIDEO COURSES/PROJECTS/facerecognitionbrain/src/index.css",
+		"/D/VIDEO COURSES/PROJECTS/facerecognitionbrain/src/components/Rank/Rank.js",
+		"/D/VIDEO COURSES/PROJECTS/facerecognitionbrain/src/App.css",
+		"/D/VIDEO COURSES/PROJECTS/facerecognitionbrain/src/App.js",
+		"/D/VIDEO COURSES/PROJECTS/facerecognitionbrain/src/components/ImageLinkForm/ImageLinkForm.js",
+		"/D/VIDEO COURSES/PROJECTS/facerecognitionbrain/src/components/Logo/Logo.js",
+		"/D/VIDEO COURSES/PROJECTS/facerecognitionbrain/src/components/Logo/Logo.css",
+		"/D/VIDEO COURSES/PROJECTS/facerecognitionbrain/src/components/Navigation/Navigation.js",
+		"/D/VIDEO COURSES/PROJECTS/facerecognitionbrain/src/index.js",
+		"/D/VIDEO COURSES/PROJECTS/facerecognitionbrain/src/components/Navigation.js",
+		"/D/VIDEO COURSES/PROJECTS/facerecognitionbrain/src/logo.svg",
+		"/D/VIDEO COURSES/PROJECTS/robofriends/src/index.css",
+		"/D/VIDEO COURSES/PROJECTS/robofriends/src/Card.js",
+		"/D/VIDEO COURSES/PROJECTS/robofriends/src/setupTests.js",
+		"/D/VIDEO COURSES/PROJECTS/robofriends/src/reportWebVitals.js",
+		"/D/VIDEO COURSES/PROJECTS/robofriends/src/index.js",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/19 React.js, React Hooks, Redux (Hooks and Redux videos moved to end of course!)/217 robots.js/robots.js",
+		"/D/VIDEO COURSES/PROJECTS/robofriends/src/App.js",
+		"/D/VIDEO COURSES/PROJECTS/robofriends/src/Hello.js",
+		"/D/VIDEO COURSES/PROJECTS/robofriends/src/Hello.css",
+		"/D/VIDEO COURSES/PROJECTS/robofriends/package.json",
+		"/C/Users/Tanbir/AppData/Roaming/jupyter/runtime/nbserver-8476-open.html",
+		"/D/VIDEO COURSES/JAVASCRIPT PROJECTS/simplefolio/src/template.html",
+		"/D/VIDEO COURSES/JAVASCRIPT PROJECTS/background-generator/package.json",
+		"/D/VIDEO COURSES/JAVASCRIPT PROJECTS/background-generator/script.js",
+		"/D/VIDEO COURSES/JAVASCRIPT PROJECTS/background-generator/style.css",
+		"/D/VIDEO COURSES/JAVASCRIPT PROJECTS/background-generator/index.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/15 Developer Environment/180 Resources_ Customizing Sublime Text 3.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/16 Git + Github + Open Source Projects/186 Installing Git.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/JAVASCRIPT PROJECTS/Background Generator/background-generator/style.css",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/JAVASCRIPT PROJECTS/Background Generator/background-generator/script.js",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/JAVASCRIPT PROJECTS/Background Generator/background-generator/index.html",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/13 Advanced Javascript/164 Exercise_ Advanced Loops.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/13 Advanced Javascript/146 advanced-exercise-3/exercise3.js",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/13 Advanced Javascript/146 Exercise_ ES5 and ES6.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/JAVASCRIPT PROJECTS/DOM Manipulations/Background Generator/script.js",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/JAVASCRIPT PROJECTS/DOM Manipulations/Background Generator/style.css",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/JAVASCRIPT PROJECTS/DOM Manipulations/Background Generator/index.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/12 DOM Manipulation/138 backgroundgenerator/script.js",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/12 DOM Manipulation/138 Background Generator Files.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/12 DOM Manipulation/138 backgroundgenerator/style.css",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/11 Javascript/129 Section Outline Document.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/09 CSS Grid + CSS Layout/086 files/style.css",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/09 CSS Grid + CSS Layout/086 files/index.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/08 Bootstrap, Templates, And Building Your Startup Landing Page/068 startup-files/style.css",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/08 Bootstrap, Templates, And Building Your Startup Landing Page/068 startup-files/index.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/09 CSS Grid + CSS Layout/085 Quick Note_ grid-gap to gap.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/08 Bootstrap, Templates, And Building Your Startup Landing Page/073 Quick Note_ Mailchimp.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/PROJECTS/newpage.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/PROJECTS/register.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/PROJECTS/index.html",
+		"/D/VIDEO COURSES/CURRENT/The Complete Web Developer in 2021 Zero to Mastery/PROJECTS/style.css",
+		"/C/Users/Tanbir/Desktop/PythonWork/myexample.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "image.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
